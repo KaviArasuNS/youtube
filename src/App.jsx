@@ -1,5 +1,12 @@
+import Home from "./pages/Home";
+import Login from "./pages/Login";
+import PorductList from "./pages/PorductList";
+import Product from "./pages/Product";
+import Register from "./pages/Register";
+import Cart from "./pages/Cart"
+
 const App = () => {
-  return <div>Hello world!</div>;
+  return <Home/>
 };
 
 export default App;
